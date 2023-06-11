@@ -1,0 +1,10 @@
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\model\Order.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\config\WebClientConfig.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\dto\OrderLineItemsDto.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\dto\InventoryResponse.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\model\OrderLineItems.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\service\OrderService.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\dto\OrderRequest.java
+D:\microservices-new\order-service\src\main\java\com\example\orderservice\repository\OrderRepository.java
